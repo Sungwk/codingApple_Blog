@@ -34,7 +34,7 @@ function App() {
             setTitle(["서울 여행 후기", "부산 여행 후기", "강릉 여행 후기"]);
           }}
         >
-          제목 변경
+          oo
         </span>
       </div>
       <div className="list">
